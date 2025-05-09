@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Eugenio',
 	imageBackground: false,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: false,
 
 	// Greetings
@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Julius',
 			icon: 'brain',
-			link: 'https://julius.ai/chat,
+			link: 'https://julius.ai/chat',
 		},
 		{
 			id: '4',

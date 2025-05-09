@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Eugenio',
 	imageBackground: false,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: false,
 
 	// Greetings
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Julius',
+			icon: 'brain',
+			link: 'https://julius.ai/chat,
 		},
 		{
 			id: '4',
@@ -77,14 +77,14 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Youtube',
+			icon: 'youtube',
+			link: 'https://www.youtube.com/',
 		},
 		{
 			id: '6',
 			name: 'Odysee',
-			icon: 'youtube',
+			icon: 'loader-pinwheel',
 			link: 'https://odysee.com/',
 		},
 	],
@@ -161,8 +161,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'ChatGPT',
+					link: 'https://chatgpt.com/',
 				},
 				{
 					name: 'Dribbble',
